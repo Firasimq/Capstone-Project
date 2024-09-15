@@ -44,7 +44,8 @@ This dashboard is designed to analyze and visualize key urban metrics across mul
 - The dashboard includes a map that displays the geographic locations of each neighborhood, offering a visual representation of how services are distributed across Riyadh.
 
 ### Dashboard link 
-- [أُنس الرياض Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWE1MjRlMzAtYWJlNi00MDE2LTkyNmQtZTE5MWViM2I1OWUzIiwidCI6IjJkMzE5NGUzLTE2NTQtNDZiZC1iYWUyLWFkMzdiYTExYjBhZSIsImMiOjl9)
+- [dashboard أُنس الرياض](https://app.powerbi.com/view?r=eyJrIjoiOWE1MjRlMzAtYWJlNi00MDE2LTkyNmQtZTE5MWViM2I1OWUzIiwidCI6IjJkMzE5NGUzLTE2NTQtNDZiZC1iYWUyLWFkMzdiYTExYjBhZSIsImMiOjl9)
+
 
 
 
