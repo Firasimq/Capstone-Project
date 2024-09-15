@@ -46,7 +46,11 @@ This dashboard is designed to analyze and visualize key urban metrics across mul
 ### Dashboard link 
 - [dashboard أُنس الرياض](https://app.powerbi.com/view?r=eyJrIjoiOWE1MjRlMzAtYWJlNi00MDE2LTkyNmQtZTE5MWViM2I1OWUzIiwidCI6IjJkMzE5NGUzLTE2NTQtNDZiZC1iYWUyLWFkMzdiYTExYjBhZSIsImMiOjl9)
 
-
+## Team members 
+- Firas Almoqhim
+- Musab Alsobhi
+- Osama Alharbi
+- Mousa Alobaid
 
 
   
