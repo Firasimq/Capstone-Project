@@ -24,22 +24,22 @@ This project evaluates how well each neighborhood meets the needs of its residen
 This dashboard is designed to analyze and visualize key urban metrics across multiple neighborhoods in Riyadh. It is part of an effort to support Saudi Vision 2030 and enhance the quality of life in Saudi cities. The dashboard provides decision-makers and planners with vital insights into the infrastructure, public services, and population needs of various neighborhoods. The data focuses on several essential categories, which include parks, mosques, transportation, and public facilities.
 
 ### Key Features:
-1-Neighborhood Metrics:
+1- Neighborhood Metrics:
 - The dashboard tracks key services for each neighborhood, such as the number of mosques, parks, bus stops, metro stations, and the overall population.
 - It provides a snapshot of the number of essential services like schools, health clubs, restaurants, cafes, and supermarkets.
 
-2-Service Ratios:
+2- Service Ratios:
 - The dashboard provides ratios that compare the existing services to the required levels based on population size, ensuring that areas of deficiency are highlighted. This includes services like schools, hospitals, and mosques.
   
-3-Infrastructure Comparisons:
+3- Infrastructure Comparisons:
 
 - Neighborhoods are compared based on various metrics, such as the number of parks, cafes, and supermarkets available. These comparisons are displayed using visual elements like bar charts and line graphs to make the data easy to interpret.
 
-4-Projected Needs:
+4- Projected Needs:
 
 - For certain services, such as schools, the dashboard projects future requirements based on population growth and urban expansion. These projections are presented in a line graph, allowing for forward-looking planning.
 
-5-Interactive Map:
+5- Interactive Map:
 
 - The dashboard includes a map that displays the geographic locations of each neighborhood, offering a visual representation of how services are distributed across Riyadh.
 
